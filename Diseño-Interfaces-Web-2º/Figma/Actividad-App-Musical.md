@@ -16,3 +16,6 @@
 
 ## Menú de hamburguesa
 <img src="./img/img13.jpg" alt="Captura13" width="400"/>
+
+## Conexiones
+<img src="./img/img14.jpg" alt="Captura14" width="400"/>
