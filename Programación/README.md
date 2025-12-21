@@ -14,6 +14,7 @@ Ejercicios. Tema 1. Fundamentos de la programación
    └── Operaciones con variables - ej 14, ej 23, ej 30
    └── Conversiones entre variables - ej 33, ej 34
    └── Bloque if-else - ej 39, ej 43
+
 Ejercicios. Tema 2. Programación orientada a objetos
    └── La programación orientada a objetos - ej 1
    └── Clases, objetos y librerías
