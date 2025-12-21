@@ -10,7 +10,7 @@ Fundamentos de Java, POO, estructuras de datos
 ### [Lenguaje de Marcas]
 HTML, CSS, XML, JSON
 
-### [Diseño de Interfaces Web]¡
+### [Diseño de Interfaces Web]
 Maquetación web, responsive design
 
 ### [Base de Datos]
