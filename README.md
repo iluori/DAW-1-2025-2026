@@ -12,3 +12,6 @@ HTML, CSS, XML, JSON
 
 ### [Base de Datos]
 SQL, diseño de bases de datos relacionales
+
+### [Diseño de interfaces Web] (asignatura de 2º año)
+Figma, Accesibilidad y usabilidad, Maquetación Flex y Grid
