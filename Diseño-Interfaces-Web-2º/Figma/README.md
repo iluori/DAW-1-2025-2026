@@ -1,3 +1,3 @@
 # Primeras pruebas en Figma
 
-![Captura del proyecto](./img/img1.jpg)
+<img src="./img/img1.png" alt="Captura1" width="300">
