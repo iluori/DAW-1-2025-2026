@@ -21,4 +21,4 @@
 <img src="./img/img14.jpg" alt="Captura14" width="400"/>
 
 ## Video prototipado
-https://github.com/iluori/1-DAW-25-26/issues/1#issue-3751176231
+https://github.com/user-attachments/assets/0b02a45f-49a4-4566-b02c-e3952c98717a
