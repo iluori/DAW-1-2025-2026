@@ -11,6 +11,7 @@ Tema 1. Almacenamiento de la información
    └── SGBD comerciales y libres
    └── BD centralizadas
    └── BD distribuidas
+-Actividades Tema 1 BDD.pdf-
 
 Tema 2. Interpretación de diagramas Entidad/Relación
    └── Modelo de datos
