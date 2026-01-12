@@ -37,8 +37,8 @@ Ejercicios. Tema 4. Estructura de datos
    └── Estructuras de datos
    └── Java Collection Framework
    └── Interfaz Collection <T>
-   └── Interfaz List <T>
-   └── Recorrido de una lista
+   └── Interfaz List <T> - ej 2
+   └── Recorrido de una lista - ej 6, ej 8
    └── For mejorado
    └── Listas mutables e inmutables
    └── Las clases envoltorio
