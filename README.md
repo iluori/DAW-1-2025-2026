@@ -37,5 +37,5 @@ Prácticas sobre:
 [El repositorio está en **constante actualización** hasta finalizar el curso]
 
 ## Autora
-Iluminada Orihuela - Estudiante de Desarrollo de Aplicaciones Web (DAW)
+**Iluminada Orihuela** - Estudiante de Desarrollo de Aplicaciones Web (DAW)
 
