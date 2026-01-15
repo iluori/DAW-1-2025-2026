@@ -26,7 +26,10 @@ Tema 3. Creación de Bases de Datos relacionales
    └── SGBD MariaDB
    └── Lenguaje de descripción de datos (DDL)
    └── Lenguaje de control de datos (DCL)
-´´´
+```
 
 ## Ejercicios subidos a Github
--Actividades Tema 1 BDD.pdf-
+```
+   └── Actividades Tema 1 BDD.pdf
+```
+
