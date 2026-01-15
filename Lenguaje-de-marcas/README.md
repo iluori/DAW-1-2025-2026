@@ -44,8 +44,9 @@ Unidad 3. CSS
    └── Selectores, botones y estilos
    └── Especifidad
    └── Ejemplos con JavaScript
-
-## Ejercicios subidos
+```
+## Ejercicios subidos a Github
+```
 Actividades Unidad 3 
    └── Unidad 3 - Actividades
 ```
