@@ -3,6 +3,7 @@
 Proyectos de diseño y maquetación web desarrollados durante la asignatura de Diseño de Interfaces Web de segundo año de DAW.
 
 ## Contenido
+```
 Tema 1. Planificación de una interfaz gráfica
    └── Elementos de diseño
    └── Color, tipografía e iconos
@@ -70,7 +71,7 @@ Tema4.4 Tailwind
    └── Grid Layout
    └── Transiciones y animaciones
    └── Utilidades avanzadas
-
+```
 ## Ejercicios subidos a Github
 ```
    └── Figma
