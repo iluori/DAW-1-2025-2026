@@ -51,8 +51,8 @@ Ejercicios. Tema 5. Programación básica de clases
    └── Estructura interna de una clase
    └── Programación de una clase
    └── Programación de métodos constructores 
-   └── Test de las clases
-   └── Programación de métodos de instancia
+   └── Test de las clases - ej 1, ej 4
+   └── Programación de métodos de instancia - ej 12
    └── Programación de métodos que lanzan excepciones
    └── Proramación de métodos recursivos
    └── Programación de métodos estáticos
