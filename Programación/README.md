@@ -47,6 +47,20 @@ Ejercicios. Tema 4. Estructura de datos
    └── Interfaz Set <T>
    └── Interfaz Map <K,V>
 
+Ejercicios. Tema 5. Programación básica de clases
+   └── Estructura interna de una clase
+   └── Programación de una clase
+   └── Programación de métodos constructores 
+   └── Test de las clases
+   └── Programación de métodos de instancia
+   └── Programación de métodos que lanzan excepciones
+   └── Proramación de métodos recursivos
+   └── Programación de métodos estáticos
+   └── Propiedades estáticas
+   └── Interfaces
+   └── Records
+   └── Enumeraciones
+
 (En algunos temas uso librerías propias del instituto que son privadas)
 (A medida que se va dando algo nuevo en  el tema se va sumando a los siguientes ejercicios. Por eso en los ejercicios no aparece lo que no se ha visto con anterioridad)
 ```
